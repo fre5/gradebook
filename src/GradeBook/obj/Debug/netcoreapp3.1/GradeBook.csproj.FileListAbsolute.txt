@@ -1,0 +1,14 @@
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.AssemblyReference.cache
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/mnt/WD250/__DEV/_DOTNET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
