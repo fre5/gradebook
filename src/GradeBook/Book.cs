@@ -86,27 +86,7 @@ namespace GradeBook
             Name = name;
         }
 
-        public void AddGrade(char letter)
-        {
-            switch(letter)
-            {
-                case 'A':
-                    AddGrade(90);
-                    break;
-                
-                case 'B':
-                    AddGrade(80);
-                    break;
-
-                case 'C':
-                    AddGrade(70);
-                    break;
-                
-                default:
-                    AddGrade(0);
-                    break; 
-            }
-        }
+        public override event GradeAddedDelegate GradeAdded;
 
         public override void AddGrade(double grade) 
         {
@@ -123,8 +103,6 @@ namespace GradeBook
                 throw new ArgumentException($"Invalid grade {nameof(grade)}");
             }
         }
-
-        public override event GradeAddedDelegate GradeAdded;
 
         public override Statistics GetStatistics() 
         {
